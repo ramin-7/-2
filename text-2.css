@@ -1,0 +1,69 @@
+body {
+    position: relative;
+width: 1440px;
+height: 1024px;
+background: #FFFFFF;
+}
+h2 {
+    position: absolute;
+width: 1337px;
+height: 19px;
+left: 48px;
+top: 30px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #000000
+}
+hr {
+    position: absolute;
+width: 1337px;
+height: 0px;
+left: 48px;
+top: 96px;
+border: 1px solid #000000;
+}
+.text-one {
+    position: absolute;
+width: 1364px;
+height: 99px;
+left: 38px;
+top: 121px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+padding: 10px;
+text-align: center;
+color: #000000;
+}
+.meore-abzaci {
+    position: absolute;
+width: 218px;
+height: 19px;
+left: 50px;
+top: 290px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+.meore-xazi {
+    position: absolute;
+width: 1337px;
+height: 0px;
+left: 48px;
+top: 346px;
+border: 1px solid #000000;
+}
+.text-two {
+    position: absolute;
+    width: 1364px;
+    height: 99px;
+    left: 48px;
+    top: 381px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
